@@ -1,7 +1,3 @@
-.navbar-brand, .nav:last-child a{
-  color: white;
-}
-
 .mr-100 {
   margin-right: 100px;
 }
@@ -14,26 +10,96 @@
   margin-right: 20px;
 }
 
-.mt-20 {
-  margin-top: 20px;
+.mt-40 {
+  margin-top: 40px;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.pt-3 {
+  padding-top: 3px;
 }
 
 .bg-blue {
   background-color: #2c3e50;
 }
 
-.mt-50 {
-  margin-top: 50px;
+.mt-100 {
+  margin-top: 100px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+.text-l {
+  text-align: left;
 }
 
 #under-nv {
   background-color: #1abc9c;
   width: 100%;
-  height: 400px;
+  height: 500px;
   color: white;
 }
 
-.col-lg-3 {
-  background-color: yellow;
+#under-nv h1 {
+  font-size: 70px;
+}
+
+.col-lg-4 {
   height: 200px;
+}
+
+.col-lg-4 img {
+  height: 200px;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+#portfolio h2 {
+  font-size: 50px;
+  color: #2c3e50;
+}
+
+#about {
+  height: 600px;
+  background-color: #1abc9c;
+  color: white;
+}
+
+#about h2 {
+  font-size: 50px;
+}
+
+#about p {
+  font-size: 25px;
+  text-align: left;
+}
+
+.btn-primary {
+  background-color: #1abc9c;
+  padding: 10px;
+}
+
+#contact h3 {
+  color: #2c3e50;
+  font-size: 50px;
+}
+
+#first-footer {
+  height: 200px;
+  color: white;
+}
+
+#second-footer {
+  color: white;
+  height: 80px;
+  line-height: 80px;
+}
+
+.bg-darkblue {
+  background-color: #1a252f;
 }
